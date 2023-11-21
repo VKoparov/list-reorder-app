@@ -1,0 +1,21 @@
+.list-item-container {
+    width: 350px;
+    height: fit-content;
+
+    display: flex;
+    justify-content: space-between;
+
+    padding: 15px 15px;
+
+    border: 2px solid whitesmoke;
+    border-radius: 8px;
+}
+
+.label {
+    margin: auto 0;
+}
+
+.action-buttons-container {
+    display: flex;
+    gap: 10px;
+}
